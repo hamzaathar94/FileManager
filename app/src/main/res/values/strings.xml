@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text1">Thank you for installing our Video Player App</string>
+    <string name="text2">For playing videos in this app, you have to allow for accessing
+all the videos in this device.Allow access and we are ready to go.</string>
+    <string name="image">Image</string>
+    <string name="folder_name">Name</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="info">Info</string>
+
+</resources>
